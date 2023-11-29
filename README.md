@@ -1,1 +1,3 @@
-# Quirky_Coders_Lung_Cancer_Prediction_System
+Lung_Cancer_Prediction_System
+
+Lung cancer prediction using 3 machine learning classification models using Scikit-learn library in Python is a code implementation that aims to develop a predictive model for detecting lung cancer in patients. The code uses 3 different machine learning algorithms, including logistic regression, decision tree, random forest, to predict the likelihood of lung cancer based on a range of variables. The dataset used in the code includes various columns such as gender, age, smoking, yellow fingers, anxiety, peer pressure, chronic disease, fatigue, allergy, wheezing, alcohol consuming, coughing, shortness of breath, swallowing difficulty, chest pain, and lung cancer. By analyzing these variables and using machine learning algorithms to identify patterns and correlations, the predictive models can provide accurate assessments of a patient's risk of developing lung cancer.
